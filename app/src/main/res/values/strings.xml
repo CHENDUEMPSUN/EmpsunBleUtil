@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BleTest</string>
+    <string name="data_value">数据值:</string>
+</resources>

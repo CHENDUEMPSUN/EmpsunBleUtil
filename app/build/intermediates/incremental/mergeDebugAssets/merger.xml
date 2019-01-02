@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config=":EmpsunBleUtil"><source path="E:\project\BleTest\EmpsunBleUtil\build\intermediates\bundles\debug\assets"/></dataSet><dataSet config="main"><source path="E:\project\BleTest\app\src\main\assets"/><source path="E:\project\BleTest\app\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="E:\project\BleTest\app\src\debug\assets"/></dataSet></merger>
