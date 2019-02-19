@@ -28,7 +28,7 @@ public class MyApplication extends Application {
     @Override
     public void onCreate() {
         super.onCreate();
-        EmpBleManager.getInstance().init(this);//初始化
+        EmpBleManager.getInstance().initApplication(this);//初始化
     }
 }
 
